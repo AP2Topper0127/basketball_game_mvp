@@ -15,7 +15,7 @@ For React Native 0.45.1
 - `react-native run-ios`
 
 
-Feel free to ask me questions on Twitter [@FaridSafi](https://www.twitter.com/FaridSafi)!
+
 
 # License
 
